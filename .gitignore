@@ -1,0 +1,5 @@
+ .env
+ ./node_modules
+ ./ethereum/node_modules/*
+ ./ethereum/hardhat.config.js
+./web/my-app/node_modules
